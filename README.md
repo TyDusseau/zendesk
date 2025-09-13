@@ -48,4 +48,29 @@ _**Ref 3:** Configured Fields such as ticket priority to assist automation_
 _**Ref 4:** Configured SLA's for timely ticket resolution_
 
 -----
-(Work in progress)
+<img width="864" height="670" alt="image" src="https://github.com/user-attachments/assets/8c029ddb-ce26-4060-9458-58927443f638" />
+
+_**Ref 5:** Configured views to filter ticket visibility by group_
+
+-----
+<img width="840" height="895" alt="image" src="https://github.com/user-attachments/assets/ea5d31fa-fe32-461e-8317-8d2cc2e0a5db" />
+<img width="836" height="1027" alt="image" src="https://github.com/user-attachments/assets/96d86206-1302-4ed8-a623-5da80c356bdf" />
+<img width="308" height="447" alt="image" src="https://github.com/user-attachments/assets/f653c2b9-056a-43f2-886f-684bdb7b0f1f" />
+
+_**Ref 6:** Added macros to help automate common tickets_
+
+-----
+<img width="777" height="1150" alt="image" src="https://github.com/user-attachments/assets/ccea9dde-8ef4-439c-a96c-2c6455ef7575" />
+<img width="752" height="1164" alt="image" src="https://github.com/user-attachments/assets/8e828e1c-fb02-4422-a725-8020f0ad4847" />
+
+
+
+_**Ref 7:** Added triggers to activate automation of common helpdesk tasks_
+
+-----
+
+<img width="503" height="548" alt="image" src="https://github.com/user-attachments/assets/da4157a6-155a-491e-b37b-78dd4f2ee876" />
+
+_**Ref 8:** Example of automation with a VPN support ticket_
+
+-----
