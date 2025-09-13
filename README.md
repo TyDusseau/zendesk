@@ -27,3 +27,25 @@ I set up a home lab in Zendesk to simulate a real helpdesk environment. I create
 - Reporting – monitored ticket trends and SLA compliance
 
 ## Steps
+<img width="766" height="564" alt="image" src="https://github.com/user-attachments/assets/9de107ed-0c8a-4d94-b019-0742504d1bef" />
+
+_**Ref 1:** Set up Zendesk trial account and added multiple Team Members for later use_
+
+-----
+<img width="938" height="490" alt="image" src="https://github.com/user-attachments/assets/29a6f2b8-181b-4c60-87c2-ec4d20cbacb2" />
+
+_**Ref 2:** Create groups to organize employees by department and managerial levels_
+
+-----
+<img width="1577" height="644" alt="image" src="https://github.com/user-attachments/assets/47a91707-e8f3-4b84-83f1-1ac66717cb36" />
+
+_**Ref 3:** Configured Fields such as ticket priority to assist automation_
+
+-----
+<img width="1321" height="236" alt="image" src="https://github.com/user-attachments/assets/e61cd46e-3475-4f39-884a-eb21cb1801ac" />
+<img width="854" height="759" alt="image" src="https://github.com/user-attachments/assets/320607b3-8cbb-412f-b674-e528100b7a9d" />
+
+_**Ref 4:** Configured SLA's for timely ticket resolution_
+
+-----
+(Work in progress)
